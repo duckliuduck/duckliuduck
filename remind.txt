@@ -1,0 +1,6 @@
+  71  vi py-test001.py
+   72  git add .
+   73  git commit --amend
+   74  git push
+   75  git pull
+   76  git push
